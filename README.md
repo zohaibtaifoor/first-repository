@@ -1,2 +1,2 @@
-# first-repository
+beats device
 to make money
